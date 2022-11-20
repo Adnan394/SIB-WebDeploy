@@ -49,7 +49,7 @@
                     BEAUTIFUL WEBSITE
                 </h1>
                 <p>we’re can develop your website with popular TechStach, beautiful and clean code.</p>
-                <a href="./login-form/login.html"><button type="button" class="btn px-4"
+                <a href="<?=base_url('index.php/welcome/login');?>"><button type="button" class="btn px-4"
                         style="background-color: #7b9cff; color: white; border-radius: 15px">GET STARTED</button></a>
             </div>
             <div class="content-img">
